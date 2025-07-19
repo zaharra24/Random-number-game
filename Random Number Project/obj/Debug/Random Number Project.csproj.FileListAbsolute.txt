@@ -1,0 +1,10 @@
+C:\Users\zahar\source\repos\Random Number Project\Random Number Project\bin\Debug\Random Number Project.exe.config
+C:\Users\zahar\source\repos\Random Number Project\Random Number Project\bin\Debug\Random Number Project.exe
+C:\Users\zahar\source\repos\Random Number Project\Random Number Project\bin\Debug\Random Number Project.pdb
+C:\Users\zahar\source\repos\Random Number Project\Random Number Project\obj\Debug\Random Number Project.csproj.AssemblyReference.cache
+C:\Users\zahar\source\repos\Random Number Project\Random Number Project\obj\Debug\Random_Number_Project.Form1.resources
+C:\Users\zahar\source\repos\Random Number Project\Random Number Project\obj\Debug\Random_Number_Project.Properties.Resources.resources
+C:\Users\zahar\source\repos\Random Number Project\Random Number Project\obj\Debug\Random Number Project.csproj.GenerateResource.cache
+C:\Users\zahar\source\repos\Random Number Project\Random Number Project\obj\Debug\Random Number Project.csproj.CoreCompileInputs.cache
+C:\Users\zahar\source\repos\Random Number Project\Random Number Project\obj\Debug\Random Number Project.exe
+C:\Users\zahar\source\repos\Random Number Project\Random Number Project\obj\Debug\Random Number Project.pdb
